@@ -6,25 +6,43 @@
     {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "0xFFB74093",
+    "color": Colors.blue,
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }, {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "0xFFB74093",
+    "color": Colors.blue,
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }, {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "0xFFB74093",
+    "color": Colors.blue,
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }, {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "0xFFB74093",
+    "color": Colors.blue,
+    "url":"https://pmb.unisnu.ac.id/",
+    "type": "2"
+  },{
+    "title": "PMB",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "color": Colors.blue,
+    "url":"https://pmb.unisnu.ac.id/",
+    "type": "2"
+  },{
+    "title": "PMB",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "color": Colors.blue,
+    "url":"https://pmb.unisnu.ac.id/",
+    "type": "2"
+  },{
+    "title": "PMB",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "color": Colors.blue,
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }
