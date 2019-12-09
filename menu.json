@@ -6,45 +6,45 @@
     {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#2a2b75",
+    "color": "#008844",
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }, {
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "title": "SIAkad",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "color": "#008844",
+    "url":"https://siakad.unisnu.ac.id/",
+    "type": "1"
+  }, {
+    "title": "SIDosen",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/dosen.png",
+    "color": "#008844",
+    "url":"https://dosen.unisnu.ac.id/",
+    "type": "1"
+  }, {
+    "title": "SIAMa",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/siama.png",
     "color": "#ffbf00",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
-  }, {
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#b10102",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
-  }, {
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#ffbf00",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
+    "url":"https://siama.unisnu.ac.id/",
+    "type": "1"
   },{
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "title": "e-Learning",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/elearning.png",
     "color": "#b10102",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
+    "url":"https://elearning.unisnu.ac.id/",
+    "type": "1"
   },{
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "title": "SIKKN",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/kkn.png",
     "color": "#b10102",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
+    "url":"https://kkn.unisnu.ac.id/",
+    "type": "1"
   },{
-    "title": "PMB",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "title": "e-Surat",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/surat.png",
     "color": "#b10102",
-    "url":"https://pmb.unisnu.ac.id/",
-    "type": "2"
+    "url":"https://surat.unisnu.ac.id/",
+    "type": "1"
   }
   ]
   
