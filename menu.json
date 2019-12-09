@@ -6,7 +6,7 @@
     {
     "title": "PMB",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": Colors.blue,
+    "color": "Colors.blue",
     "url":"https://pmb.unisnu.ac.id/",
     "type": "2"
   }, {
