@@ -99,58 +99,58 @@
 
     {
     "title": "PDPIT",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
     "url":"https://pdpit.unisnu.ac.id/",
     "type": "2"
   }, {
     "title": "Kewirausahaan",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://kewirausahaan.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "Bahasa",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://bahasa.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "Aswaja",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://aswaja.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "KUI",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://oia.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "Perpustakaan",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://perpustakaan.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "LPPM",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://lppm.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "LPM",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://lpm.unisnu.ac.id/",
+    "type": "2"
   },{
     "title": "LPP",
-    "image": "https://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "url":"https://siakad.unisnu.ac.id/",
-    "type": "1"
+    "url":"https://lpp.unisnu.ac.id/",
+    "type": "2"
   }
   
  ]
