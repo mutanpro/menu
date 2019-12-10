@@ -96,7 +96,7 @@
   }
   ],
  "upt":[
-  "portal":[ 
+
     {
     "title": "PDPIT",
     "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
@@ -152,7 +152,7 @@
     "url":"https://siakad.unisnu.ac.id/",
     "type": "1"
   }
-  ]
+  
  ]
   
 }
