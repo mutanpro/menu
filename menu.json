@@ -88,55 +88,55 @@
     {
     "title": "PDPIT",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://pdpit.unisnu.ac.id/",
     "type": "2"
   }, {
     "title": "Kewirausahaan",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://kewirausahaan.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "Bahasa",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://bahasa.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "Aswaja",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://aswaja.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "KUI",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://oia.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "Perpustakaan",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://perpustakaan.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "LPPM",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://lppm.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "LPM",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://lpm.unisnu.ac.id/",
     "type": "2"
   },{
     "title": "LPP",
     "image": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
-    "color": "#808080",
+    "color": "#607d8b",
     "url":"https://lpp.unisnu.ac.id/",
     "type": "2"
   }
