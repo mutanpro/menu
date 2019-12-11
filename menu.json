@@ -4,14 +4,14 @@
   
   "portal":[
    {
-    "id": "0",
     "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "image": "https://portal.unisnu.ac.id/asset/images/si/info.png",
     "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "idlink": "0"
+    "url":"https://pmb.unisnu.ac.id/",
+    "type": "2"
   }
 
+  
  ]
   
 }
