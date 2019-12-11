@@ -2,14 +2,31 @@
  
   "status": true,
   
-  "portal":[ 
+  "portal":[
+   {
     "id_portal":"0",
     "title": "PMB",
     "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
     "color": "#008844",
     "link":"https://pmb.unisnu.ac.id/",
     "id_link": "0"
-  
+  },
+   {
+    "id_portal":"0",
+    "title": "PMB",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "color": "#008844",
+    "link":"https://pmb.unisnu.ac.id/",
+    "id_link": "0"
+  },
+   {
+    "id_portal":"0",
+    "title": "PMB",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
+    "color": "#008844",
+    "link":"https://pmb.unisnu.ac.id/",
+    "id_link": "0"
+  },
  ]
   
 }
