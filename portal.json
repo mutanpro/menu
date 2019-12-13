@@ -4,55 +4,6 @@
   
   "portal":[
    {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
-    "id_portal": "0",
-    "title": "PMB",
-    "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
-    "color": "#008844",
-    "link":"https://pmb.unisnu.ac.id/",
-    "id_link": "0"
-  }, {
     "id_portal": "1",
     "title": "PMB",
     "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
@@ -61,10 +12,67 @@
     "id_link": "0"
   }, {
     "id_portal": "1",
+    "title": "SIAkad",
+    "icon": "hthttps://portal.unisnu.ac.id/asset/images/si/siakad.png",
+    "color": "#008844",
+    "link":"https://siakad.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "SIAMa",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/siama.png",
+    "color": "#008844",
+    "link":"https://siama.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
     "title": "PMB",
     "icon": "https://portal.unisnu.ac.id/asset/images/si/info.png",
     "color": "#008844",
     "link":"https://pmb.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "SIDosen",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/dosen.png",
+    "color": "#008844",
+    "link":"https://dosen.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "e-Learning",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/elearning.png",
+    "color": "#008844",
+    "link":"https://elearning.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "SIKKN",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/kkn.png",
+    "color": "#008844",
+    "link":"https://sikkn.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "e-Surat",
+    "icon": "hhttps://portal.unisnu.ac.id/asset/images/si/surat.png",
+    "color": "#008844",
+    "link":"https://surat.unisnu.ac.id/",
+    "id_link": "1"
+  }, {
+    "id_portal": "1",
+    "title": "AMI",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/ami.png",
+    "color": "#008844",
+    "link":"https://ami.unisnu.ac.id/",
+    "id_link": "1"
+  },
+    {
+    "id_portal": "2",
+    "title": "Fakultas",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/ami.png",
+    "color": "#008844",
+    "link":"https://ami.unisnu.ac.id/",
     "id_link": "0"
   }
 
