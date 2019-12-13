@@ -74,10 +74,10 @@
    
    {
     "id_portal": "2",
-    "title": "Fakultas Syariah dan Hukum",
+    "title": "PDPIT",
     "icon": "https://portal.unisnu.ac.id/asset/images/fak/fsh.png",
     "color": "#008844",
-    "link":"https://syariah.unisnu.ac.id/",
+    "link":"https://pdpit.unisnu.ac.id/",
     "id_link": "0"
   },
     {
