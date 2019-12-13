@@ -48,7 +48,7 @@
   }, {
     "id_portal": "1",
     "title": "e-Surat",
-    "icon": "hhttps://portal.unisnu.ac.id/asset/images/si/surat.png",
+    "icon": "https://portal.unisnu.ac.id/asset/images/si/surat.png",
     "color": "#008844",
     "link":"https://surat.unisnu.ac.id/",
     "id_link": "1"
