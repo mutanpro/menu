@@ -1,0 +1,45 @@
+{
+  "status": "Welcome to quicktype!",
+  "fakultas": [
+    {
+        "id_fakultas":"1",
+        "nama_fakultas":"Sains dan Teknologi",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+        "Prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
+            },
+             {
+                "id_prodi":"2",
+        "nama_prodi":"SI",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
+            }
+            ]
+    },
+     {
+        "id_fakultas":"2",
+        "nama_fakultas":"Sains dan Teknologi",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+        "Prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
+            },
+             {
+                "id_prodi":"2",
+        "nama_prodi":"SI",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
+            }
+            ]
+    }
+  ]
+}
