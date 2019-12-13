@@ -3,9 +3,9 @@
   "fakultas": [
     {
         "id_fakultas":"1",
-        "nama_fakultas":"Sains dan Teknologi",
-        "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+        "nama_fakultas":"Fakultas Syariah dan Hukum",
+        "link":"https://syariah.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/fsh.png",
         "color":"#008844",
         "prodi":[
             {
@@ -13,34 +13,83 @@
         "nama_prodi":"TIF",
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
-        "color":"#008844"    },
-             {
-                "id_prodi":"2",
-        "nama_prodi":"SI",
-        "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
-          "color":"#008844"  }
+        "color":"#008844"    
+            }
             ]
-    },
-     {
+    },{
         "id_fakultas":"2",
-        "nama_fakultas":"Sains dan Teknologi",
-        "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+        "nama_fakultas":"Fakultas Tarbiyah dan Ilmu Keguruan",
+        "link":"https://ftk.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/ftik.png",
         "color":"#008844",
         "prodi":[
             {
                 "id_prodi":"1",
         "nama_prodi":"TIF",
         "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-          ,"color":"#008844"  },
-             {
-                "id_prodi":"2",
-        "nama_prodi":"SI",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+            ]
+    },{
+        "id_fakultas":"3",
+        "nama_fakultas":"Fakultas Dakwah dan Komunikasi ",
+        "link":"https://dakwah.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/fdk.png",
+        "color":"#008844",
+        "prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
         "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-          ,"color":"#008844"  }
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+            ]
+    },{
+        "id_fakultas":"4",
+        "nama_fakultas":"Fakultas Ekonomi dan Bisnis",
+        "link":"https://feb.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/feb.png",
+        "color":"#008844",
+        "prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+            ]
+    },{
+        "id_fakultas":"5",
+        "nama_fakultas":"Fakultas Sains dan Teknologi",
+        "link":"https://saintek.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/fst.png",
+        "color":"#008844",
+        "prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+            ]
+    },{
+        "id_fakultas":"6",
+        "nama_fakultas":"Program Pascasarjana",
+        "link":"https://pasca.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/fak/pps.png",
+        "color":"#008844",
+        "prodi":[
+            {
+                "id_prodi":"1",
+        "nama_prodi":"TIF",
+        "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
             ]
     }
   ]
