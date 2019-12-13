@@ -75,48 +75,76 @@
    {
     "id_portal": "2",
     "title": "PDPIT",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/fsh.png",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
     "link":"https://pdpit.unisnu.ac.id/",
     "id_link": "0"
   },
     {
     "id_portal": "2",
-    "title": "Fakultas Tarbiyah dan Ilmu Keguruan",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/ftik.png",
+    "title": "Kewirausahaan",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "link":"https://ftik.unisnu.ac.id/",
+    "link":"https://kewirausahaan.unisnu.ac.id/",
     "id_link": "0"
-  },{
+  },
+    {
     "id_portal": "2",
-    "title": "Fakultas Dakwah dan Komunikasi ",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/fdk.png",
+    "title": "Bahasa",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "link":"https://dakwah.unisnu.ac.id/",
+    "link":"https://bahasa.unisnu.ac.id/",
     "id_link": "0"
-  },{
+  },
+    {
     "id_portal": "2",
-    "title": "Fakultas Ekonomi dan Bisnis",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/feb.png",
+    "title": "Aswaja",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "link":"https://feb.unisnu.ac.id/",
+    "link":"https://aswaja.unisnu.ac.id/",
     "id_link": "0"
-  },{
+  },
+    {
     "id_portal": "2",
-    "title": "Fakultas Sains dan Teknologi",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/fst.png",
+    "title": "KUI",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "link":"https://saintek.unisnu.ac.id/",
+    "link":"https://oia.unisnu.ac.id/",
     "id_link": "0"
-  },{
+  },
+   {
     "id_portal": "2",
-    "title": "Program Pascasarjana",
-    "icon": "https://portal.unisnu.ac.id/asset/images/fak/pps.png",
+    "title": "Perpustakaan",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
     "color": "#008844",
-    "link":"https://pasca.unisnu.ac.id/",
+    "link":"https://perpus.unisnu.ac.id/",
     "id_link": "0"
-  }
-
+  },
+    {
+    "id_portal": "2",
+    "title": "LPPM",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
+    "color": "#008844",
+    "link":"https://lppm.unisnu.ac.id/",
+    "id_link": "0"
+  },
+    {
+    "id_portal": "2",
+    "title": "LPM",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
+    "color": "#008844",
+    "link":"https://lpm.unisnu.ac.id/",
+    "id_link": "0"
+  },
+    {
+    "id_portal": "2",
+    "title": "LPP",
+    "icon": "https://firebasestorage.googleapis.com/v0/b/myunisnu.appspot.com/o/upt.png?alt=media&token=0fbe761d-56d7-43b7-85c1-2bd5d1eb3958",
+    "color": "#008844",
+    "link":"https://lpp.unisnu.ac.id/",
+    "id_link": "0"
+  },
+   
  ]
   
 }
