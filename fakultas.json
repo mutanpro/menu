@@ -2,61 +2,98 @@
   "status": true,
   "fakultas": [
     {
-        "id_fakultas":"1",
+       
         "nama_fakultas":"Fakultas Syariah dan Hukum",
         "link":"https://syariah.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/fak/fsh.png",
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
-        "link":"https://unisnu.ac.id/",
+                
+        "nama_prodi":"Hukum Keluarga Islam (Ahwal Syakhshiyyah)",
+        "link":"https://hukum.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
         "color":"#008844"    
             }
+          
+          
             ]
     },{
-        "id_fakultas":"2",
+      
         "nama_fakultas":"Fakultas Tarbiyah dan Ilmu Keguruan",
         "link":"https://ftk.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/fak/ftik.png",
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
-        "link":"https://unisnu.ac.id/",
+        
+        "nama_prodi":"Pendidikan Agama Islam",
+        "link":"https://pai.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            },
+              {
+        
+        "nama_prodi":"Pendidikan Bahasa Inggris",
+        "link":"https://pbi.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+          ,
+              {
+        
+        "nama_prodi":"Pendidikan Guru PAUD",
+        "link":"https://pgpaud.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+           ,
+              {
+        
+        "nama_prodi":"Pendidikan Guru Sekolah Dasar",
+        "link":"https://pgsd.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
               "color":"#008844" 
             }
             ]
     },{
-        "id_fakultas":"3",
-        "nama_fakultas":"Fakultas Dakwah dan Komunikasi ",
+        
+        "nama_fakultas":"Fakultas Dakwah dan Komunikasi",
         "link":"https://dakwah.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/fak/fdk.png",
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
-        "link":"https://unisnu.ac.id/",
+               
+        "nama_prodi":"Komunikasi dan Penyiaran Islam",
+        "link":"https://komunikasi.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
               "color":"#008844" 
             }
             ]
     },{
-        "id_fakultas":"4",
+      
         "nama_fakultas":"Fakultas Ekonomi dan Bisnis",
         "link":"https://feb.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/fak/feb.png",
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
-        "link":"https://unisnu.ac.id/",
+                
+        "nama_prodi":"Manajemen",
+        "link":"https://manajemen.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }, {
+                
+        "nama_prodi":"Akuntansi",
+        "link":"https://akuntansi.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }, {
+                
+        "nama_prodi":"Ekonomi Islam",
+        "link":"https://feb.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
               "color":"#008844" 
             }
@@ -131,9 +168,9 @@
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
-        "link":"https://unisnu.ac.id/",
+               
+        "nama_prodi":"Manajemen Pendidikan Islam",
+        "link":"https://pasca.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
               "color":"#008844" 
             }
