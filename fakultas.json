@@ -6,20 +6,20 @@
         "nama_fakultas":"Sains dan Teknologi",
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
-        "color":"#008844"
+        "color":"#008844",
         "Prodi":[
             {
                 "id_prodi":"1",
         "nama_prodi":"TIF",
         "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-                "color":"#008844" },
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+        "color":"#008844"    },
              {
                 "id_prodi":"2",
         "nama_prodi":"SI",
         "link":"https://unisnu.ac.id/",
-        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-                "color":"#008844" }
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+          "color":"#008844"  }
             ]
     },
      {
@@ -27,23 +27,20 @@
         "nama_fakultas":"Sains dan Teknologi",
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
-            "color":"#008844"
+        "color":"#008844",
         "Prodi":[
             {
                 "id_prodi":"1",
         "nama_prodi":"TIF",
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-                 "color":"#008844"
-                
-            },
+          ,"color":"#008844"  },
              {
                 "id_prodi":"2",
         "nama_prodi":"SI",
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png"
-                "color":"#008844"
-            }
+          ,"color":"#008844"  }
             ]
     }
   ]
