@@ -7,7 +7,7 @@
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
         "color":"#008844",
-        "Prodi":[
+        "prodi":[
             {
                 "id_prodi":"1",
         "nama_prodi":"TIF",
@@ -28,7 +28,7 @@
         "link":"https://unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
         "color":"#008844",
-        "Prodi":[
+        "prodi":[
             {
                 "id_prodi":"1",
         "nama_prodi":"TIF",
