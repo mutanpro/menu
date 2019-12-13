@@ -62,16 +62,63 @@
             }
             ]
     },{
-        "id_fakultas":"5",
+   
         "nama_fakultas":"Fakultas Sains dan Teknologi",
         "link":"https://saintek.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/fak/fst.png",
         "color":"#008844",
         "prodi":[
             {
-                "id_prodi":"1",
-        "nama_prodi":"TIF",
+            
+        "nama_prodi":"Desain Produk",
+        "link":"https://dp.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            },{
+               
+        "nama_prodi":"Teknik Industri",
+        "link":"https://industri.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+          ,{
+               
+        "nama_prodi":"Teknik Informatika",
+        "link":"https://tif.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            } ,{
+               
+        "nama_prodi":"Desain Komunikasi Visual",
+        "link":"https://dkv.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+          ,{
+               
+        "nama_prodi":"Teknik Elektro",
+        "link":"https://elektro.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+           ,{
+               
+        "nama_prodi":"Teknik Sipil",
+        "link":"https://sipil.unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+          ,{
+               
+        "nama_prodi":"Sistem Informasi",
         "link":"https://unisnu.ac.id/",
+        "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
+              "color":"#008844" 
+            }
+           ,{
+               
+        "nama_prodi":"Budidaya Perairan",
+        "link":"https://budidaya.unisnu.ac.id/",
         "icon":"https://portal.unisnu.ac.id/asset/images/si/info.png",
               "color":"#008844" 
             }
