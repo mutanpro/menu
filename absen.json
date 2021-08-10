@@ -4,5 +4,7 @@
   "latitude":110.7709267,
   "jam_absen":"07.00 - 16.00",
   "id_Jenis_absen":1,
-  "tgl_absen":"2021-08-12"
+  "tgl_absen":"2021-08-12",
+  "absen_masuk":"00:00",
+  "absen_pulang":"00:00"
 }
