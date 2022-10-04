@@ -1,0 +1,83 @@
+{
+    "status": true,
+    "radius": [
+        {
+            "id_radius": "1",
+            "nm_radius": "Kantor Rektorat",
+            "max_radius": "30.0",
+            "latitude": "-6.615701",
+            "longitude": "110.692573"
+        },
+        {
+            "id_radius": "2",
+            "nm_radius": "Biro & Pelayanan",
+            "max_radius": "25.0",
+            "latitude": "-6.616342",
+            "longitude": "110.692573"
+        },
+        {
+            "id_radius": "3",
+            "nm_radius": "Perpustakaan",
+            "max_radius": "20.0",
+            "latitude": "-6.615578",
+            "longitude": "110.692916"
+        },
+        {
+            "id_radius": "4",
+            "nm_radius": "Gedung FST",
+            "max_radius": "33.0",
+            "latitude": "-6.615931",
+            "longitude": "110.692829"
+        },
+        {
+            "id_radius": "5",
+            "nm_radius": "Gedung FTIK",
+            "max_radius": "26.0",
+            "latitude": "-6.616565",
+            "longitude": "110.692490"
+        },
+        {
+            "id_radius": "6",
+            "nm_radius": "Gedung FEB",
+            "max_radius": "40.0",
+            "latitude": "-6.615847",
+            "longitude": "110.692084"
+        }
+    ],
+    "listabsen": [
+        {
+            "id": "29",
+            "nm_absen": "Absen Reguler Semua Pegawai",
+            "waktu_absen": "07:30 - 16:00",
+            "data": [
+                {
+                    "id": "1",
+                    "waktu_absen": "-",
+                    "jam_absen": "08:40"
+                },
+                {
+                    "id": "2",
+                    "waktu_absen": "-",
+                    "jam_absen": ""
+                }
+            ]
+        },
+      {
+            "id": "30",
+            "nm_absen": "Absen Reguler Semua Pegawai2",
+            "waktu_absen": "07:30 - 16:00",
+            "data": [
+                {
+                    "id": "1",
+                    "waktu_absen": "-",
+                    "jam_absen": "08:40"
+                },
+                {
+                    "id": "2",
+                    "waktu_absen": "-",
+                    "jam_absen": ""
+                }
+            ]
+        }
+    ]
+}
